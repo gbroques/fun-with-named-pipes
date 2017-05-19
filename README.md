@@ -1,4 +1,4 @@
-# Fun With Named Pipes
+# Fun with Named Pipes
 A programming exercise with named pipes. See `proj3.pdf` for the project description.
 
 ## How To Run
